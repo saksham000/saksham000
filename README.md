@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">Java Spring Boot Developer | Full Stack Experience with React, Jenkins, AWS & Docker | RESTful Services Expert</h3>
 <img align="center" alt="Coding" width="1000" height="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" />
