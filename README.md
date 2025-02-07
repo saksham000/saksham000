@@ -2,8 +2,6 @@
 <h3 align="center">Java Spring Boot Developer | Full Stack Experience with React, Jenkins, AWS & Docker | RESTful Services Expert</h3>
 <img align="center" alt="Coding" width="1000" height="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham000&label=Profile%20views&color=0e75b6&style=flat" alt="saksham000" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham000" alt="saksham000" /></a> </p>
 
 - Checkout my Resume -> <a href="https://drive.google.com/file/d/1iUFKxtWbj2Vrubxv1NX9LtpYpLKC_s9Y/view?usp=sharing" target="_blank">Click Here !</a>
